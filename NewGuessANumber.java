@@ -7,6 +7,7 @@ public class NewGuessANumber {
         RandomNumber x = new RandomNumber();
         
         x.GetANumber_Between_1_and_10();
+        
     }
     
 }
