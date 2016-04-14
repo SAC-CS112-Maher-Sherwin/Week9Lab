@@ -1,5 +1,3 @@
-package newguessanumber;
-
 public class RandomNumber {
     
     public int GetANumber_Between_1_and_10() {
