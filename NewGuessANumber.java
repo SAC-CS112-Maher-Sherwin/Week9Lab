@@ -1,3 +1,5 @@
+package newguessanumber;
+
 public class NewGuessANumber {
 
     public static void main(String[] args) {
